@@ -1,0 +1,38 @@
+_repo: Oeuvres-par-Maximilien-Robespierre---Miscellaneous_30654
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Robespierre, Maximilien
+    alias: Robespierre, Maximilien Marie Isidore de
+    birthdate: 1758
+    deathdate: 1794
+    gutenberg_agent_id: '34151'
+    url: http://www.gutenberg.org/2009/agents/34151
+    wikipedia: http://fr.wikipedia.org/wiki/Maximilien_Robespierre
+  editor:
+    agent_name: Laponneraye
+    alias: Laponneraye, Albert
+    birthdate: 1808
+    deathdate: 1849
+    gutenberg_agent_id: '34400'
+    url: http://www.gutenberg.org/2009/agents/34400
+description: ''
+gutenberg_bookshelf:
+- FR Histoire
+- FR Littérature
+gutenberg_issued: '2009-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30654'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Sources'
+title: Oeuvres par Maximilien Robespierre — Miscellaneous
+url: http://www.gutenberg.org/ebooks/30654
