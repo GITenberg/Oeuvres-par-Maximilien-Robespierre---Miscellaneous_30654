@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '34400'
     url: http://www.gutenberg.org/2009/agents/34400
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30654#Oeuvres-par-Maximilien-Robespierre---Miscellaneous
 gutenberg_bookshelf:
 - FR Histoire
 - FR Littérature
